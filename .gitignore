@@ -34,4 +34,6 @@ debug.test
 .grifter/
 *-packr.go
 .idea/
-
+vendor
+.*.swp
+.*.swo
