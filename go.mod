@@ -1,4 +1,4 @@
-module github.com/gobuffalo/packr
+module github.com/royge/packr
 
 go 1.12
 
